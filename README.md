@@ -1,14 +1,11 @@
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Rafael!;" />
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=👋%20Bem-vindo(a)!&fontSize=30&fontAlignY=35" />
+</p>
 
-<div align="center">
-  - 🔭 Atualmente trabalhando em uma máquina para identificar anomalias.
-  <br>
-  - 🌱 Aprendendo sobre Pandas, Machine Learning e Controlador de Domínio.
-  <br>
-  - 💬 Pergunte-me sobre dados, estatística e Machine Learning!
-</div>
+<h1 align="center">Olá, eu sou Rafael 😄</h1>
+<h3 align="center">💻 Desenvolvedor | 🚀 Analista de dados | 🎨 Criativo</h3>
+
+---
 
 <p align="center">
   <a href="https://github.com/raf7525">
@@ -22,30 +19,42 @@
   </a>
 </p>
 
-<h2 align="center">⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
-<br>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,html,css,git,github,docker,linux,vscode&theme=dark" />
-</div>
+---
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=raf7525&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=raf7525&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=raf7525&show_icons=true" />
-  </picture>
-  <br>
+## 🚀 Sobre mim
+- 🔭 Atualmente trabalhando em **uma máquina para identificar anomalias**
+- 🌱 Aprendendo **Pandas, Machine Learning e Controlador de Domínio**
+- 💬 Pergunte-me sobre **dados, estatística e Machine Learning**
+- ⚡ Curiosidade: **amo ler, correr e assistir filmes**
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,html,css,git,github,docker,linux,vscode&theme=dark" />
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raf7525&show_icons=true&theme=tokyonight&count_private=true" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raf7525&theme=tokyonight" height="180em" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/raf7525/raf7525/output/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-<br>
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
-</h1>
+</p>
+
+---
+
+## 🎵 O que estou ouvindo agora
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=seu_spotify_id&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</p>
