@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/raf7525/raf7525/output/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
+  ![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
 </p>
 
 ---
